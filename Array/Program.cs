@@ -11,3 +11,5 @@ for (int i = 0; i < NewArray.Length; i++)
 {
     if (NewArray[i] % 2 == 0) System.Console.Write($"{NewArray[i]} ");
 }
+
+System.Console.WriteLine();
